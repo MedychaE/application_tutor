@@ -1,1 +1,1 @@
-# application_tutor
+# application_tutor: machine learning and deep learning
